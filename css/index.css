@@ -1,0 +1,82 @@
+:root {
+    --FooterBackGround: #211C84;
+    --NavbarBackGround: #211C84;
+    --BodyBackground: #211c84e7;
+    --Branco: white;
+    --BackgroundCard:#211C84;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #211c84e7;
+}
+footer {
+    background-color: #211C84;
+    width: 100%;
+    border-top: 2px solid rgba(0, 0, 0, 0.584);
+    padding: 30px;
+}
+.footdivs ul {
+    list-style: none;
+}
+.footdivs ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.footdivs p {
+    color: white;
+}
+.foter {
+    display: flex;
+}
+.footdivs h4 {
+    color: white;
+}
+.grupobotao {
+    display: flex;
+}
+.card{
+    margin: 10px;
+    background-color: #211C84;
+    color: white;
+}
+.bg-body-tertiary {
+    background-color: #211C84 !important;
+}
+.container-fluid a {
+    color: white;
+}
+.container-fluid a {
+    color: white;
+}
+.nav-item a {
+    color: white;
+}
+.nav-link.active {
+    color: white !important;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.nav-link.dropdown-toggle {
+    color: white !important;
+}
+.dropdown-menu a {
+    color: black !important;
+}
+h1 {
+    color: white;
+
+}
+.card-body h5 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.navbar-brand:hover {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: white !important;
+}
